@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id": 100001,
+            "username": "zhcen",
+            "avatar": "http://s1.sinaimg.cn/mw690/0030GuRIgy728cFNJU4d0&690"
+        },
+        {
+            "id": 100002,
+            "username": "pugilism",
+            "avatar": "http://i8.hexun.com/2017-12-25/192081619.gif"
+        }
+    ],
+    "posts":[
+        {
+
+        }
+    ]
+}
