@@ -181,56 +181,6 @@
                     ]
                 }
             }
-        },
-        {
-            "id": 4,
-            "title": "生产新能源车的比亚迪的港股立马快速拉升",
-            "author": {
-                "id": 100002,
-                "username": "pugilism",
-                "avatar": "http://i8.hexun.com/2017-12-25/192081619.gif"
-            },
-            "date":1559882518223,
-            "tags":[],
-            "content": {
-                "mixed": {
-                    "items":[
-                        {
-                            "type":1,
-                            "text":"发改委的消息，在下午3点多A股盘后发布，港股仍在交易中。生产新能源车的比亚迪的港股立马快速拉升，截至收盘收盘涨5.76%，报47.75港元。"
-                        },
-                        {
-                            "type": 2,
-                            "dimens": {
-                                "width": 449,
-                                "height": 459
-                            },
-                            "url": "https://pics6.baidu.com/feed/377adab44aed2e73865dde6820eb4e8f86d6fa29.png?token=95a53f376c79d1ec25ffa20d2b53ceea&s=06D1CC32DD1E7CCC0879DCCB0200E030"
-                        },
-                        {
-                            "type": 3,
-                            "url":"http://www.godlychristianmusic.com/music/download.aspx?id=3788&type=song.mp3",
-                            "duration": 246
-                        },
-                        {
-                            "type": 4,
-                            "preview": {
-                                "url": "http://hbimg.b0.upaiyun.com/bbb13f4e02c0cc216c5428ad7793d3e04dc2e9c59797-hhZaMX_fw658",
-                                "dimens": {
-                                    "width": 480,
-                                    "height": 320
-                                }
-                            },
-                            "url": "https://www.freedesktop.org/software/gstreamer-sdk/data/media/sintel_trailer-480p.webm",
-                            "dimens": {
-                                "width": 480,
-                                "height": 320
-                            },
-                            "duration": 15
-                        }
-                    ]
-                }
-            }
         }
     ]
 }
